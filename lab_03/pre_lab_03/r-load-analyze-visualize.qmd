@@ -313,7 +313,7 @@ summary(Reporters$Salary)
 Questions:
 
 ```         
-1: Who is making $230,504 as a reporter???   
+1: Who is making $230,504 as a reporter??? ProPublica  
 2: Make a table for editors, figure out medians.   
 3: Find highest paid editor. Resent them.   
 4: Make a table for any position involving data  
@@ -401,7 +401,7 @@ How to conduct filter queries from a dataset
 ```
 
 ```{r}
-#your answer here
+#52000
 ```
 
 ```         
@@ -409,7 +409,7 @@ How to conduct filter queries from a dataset
 ```
 
 ```{r}
-#your answer here
+#Executive Editor, News; Black; gender not answered 
 ```
 
 ```         
@@ -417,7 +417,7 @@ How to conduct filter queries from a dataset
 ```
 
 ```{r}
-#your answer here
+#50350 Their median salary is lower than NYT by 1650
 
 ```
 
